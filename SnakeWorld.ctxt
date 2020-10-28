@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=SnakeWorld
+comment1.params=
+comment1.target=SnakeWorld()
+comment10.params=d
+comment10.target=int\ getMyX(int)
+comment11.params=d
+comment11.target=int\ getMyY(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ makeSnakeHead()
+comment4.params=
+comment4.target=void\ makeSnake()
+comment5.params=
+comment5.target=void\ addDot()
+comment6.params=
+comment6.target=void\ addFood()
+comment7.params=d\ dx
+comment7.target=void\ setDX(int,\ int)
+comment8.params=d\ dy
+comment8.target=void\ setDY(int,\ int)
+comment9.params=
+comment9.target=void\ gameOver()
+numComments=12
